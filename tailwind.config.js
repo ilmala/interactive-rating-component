@@ -16,6 +16,7 @@ module.exports = {
       'very-dark-blue': '#121417',
     },
     fontSize: {
+      'xs': ['11px', '18px'],
       'sm': ['14px', '22px'],
       'base': ['15px', '24px'],
       'lg': ['19px', '24px'],
